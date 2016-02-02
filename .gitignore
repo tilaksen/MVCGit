@@ -2,6 +2,7 @@
 .gitignore
 *.config
 connection.txt
+asfaf.txt
 
 # User-specific files
 *.suo
