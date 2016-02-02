@@ -1,6 +1,7 @@
 
 .gitignore
 *.config
+connection.txt
 
 # User-specific files
 *.suo
